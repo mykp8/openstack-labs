@@ -175,6 +175,7 @@ Atest [5] This is a test.
 - **Space** [11] A new word that makes you look cool by expressing any area with finite boundaries as a 'space'.  Therefore, you would not say a dog's lifespan is 12 years, you would say his lifespace is 12 twelve 365 day-spaces where you attempt to inject the word 'space' when a far more efficient expression is available but due to low vocabulary-space, the wordspace will continue to be dominated excessive use of the word 'space'.
 - **Staging Area** [17] You modify files in your working directory, then stage the files. Staged files are snapshots, but not permanently committed. Staged files are permanently snapshotted when they are committed.
 - **Storage Node** [11] An Object Storage node that provides container services, account services, and object services; controls the account databases, container databases, and object storage.
+- **Sweathawg** A coder who works tirelessly day and night, receiving minumal pay whilst the man repeats the benefits. Yeah!
 - **Swift** [11] An OpenStack core project that provides object storage services.
 - **TAP** Traffic Access Point
 - **Telemetry** [14] An integrated project that provides metering and measuring facilities for OpenStack. The project name of Telemetry is ceilometer.
